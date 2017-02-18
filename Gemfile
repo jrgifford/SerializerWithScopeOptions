@@ -12,4 +12,5 @@ gem 'rails', '~> 5.0.1'
 
 group :development, :test do
   gem 'byebug', platform: :mri
+  gem 'listen'
 end
